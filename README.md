@@ -1,5 +1,7 @@
 # Memory-management
 
+In the C standard library, the malloc and free functions are available for allocating and freeing memory. IN
+in this assignment, the task is to implement a custom version of memory allocation and deallocation/free.
 
 The **memory_alloc** function is intended to provide services similar to the standard malloc. Therefore, the input parameters are the size of the requested continuous block of memory, and the function returns to it: a pointer to the successfully allocated chunk of free memory that has been reserved, or NULL when the contiguous memory of the requested size cannot be reserved.
 
