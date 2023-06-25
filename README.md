@@ -1,4 +1,4 @@
-# Memory-management
+# Memory-management - Custom malloc() and free() functions in C
 
 In the C standard library, the malloc and free functions are available for allocating and freeing memory. IN
 in this assignment, the task is to implement a custom version of memory allocation and deallocation/free.
